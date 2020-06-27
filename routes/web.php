@@ -24,3 +24,7 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/statusgizi', 'StatusGiziController@index');
+
+Route::get('/databalita', 'DataBalitaController@index');
+
+Route::get('/datakader', 'DataKaderController@index');

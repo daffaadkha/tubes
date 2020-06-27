@@ -18,11 +18,11 @@
                 <i class="fa fa-plus"></i>Status Gizi Balita</button>
                 </div>
                  <div >
-            <button onclick="location.href='index.html'" class="btn btn-block btn-primary">
+            <button onclick="location.href='databalita'" class="btn btn-block btn-primary">
                 <i class="fa fa-plus"></i>Kelola Data Balita</button>
                 </div>
                 <div>
-                <button onclick="location.href='index.html'" type="submit" class="btn btn-block btn-primary">
+                <button onclick="location.href='datakader'" type="submit" class="btn btn-block btn-primary">
                 <i class="fa fa-plus"></i> Kelola Data Kader</button>
             </div>
                 </div>
